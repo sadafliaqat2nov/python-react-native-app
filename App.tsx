@@ -178,7 +178,7 @@ const styles = StyleSheet.create({
     color: 'white',
     fontWeight: 'bold',
     paddingHorizontal: 10,
-    width: '22%',
+    textAlign:'center',
   },
   errorText: {
     marginTop: 20,
